@@ -1,0 +1,7 @@
+C:\Users\HEO\Desktop\Atents\UnityClass\비주얼스튜디오\Network\EchoServer\Try\bin\Debug\Try.exe.config
+C:\Users\HEO\Desktop\Atents\UnityClass\비주얼스튜디오\Network\EchoServer\Try\bin\Debug\Try.exe
+C:\Users\HEO\Desktop\Atents\UnityClass\비주얼스튜디오\Network\EchoServer\Try\bin\Debug\Try.pdb
+C:\Users\HEO\Desktop\Atents\UnityClass\비주얼스튜디오\Network\EchoServer\Try\obj\Debug\Try.csproj.AssemblyReference.cache
+C:\Users\HEO\Desktop\Atents\UnityClass\비주얼스튜디오\Network\EchoServer\Try\obj\Debug\Try.csproj.CoreCompileInputs.cache
+C:\Users\HEO\Desktop\Atents\UnityClass\비주얼스튜디오\Network\EchoServer\Try\obj\Debug\Try.exe
+C:\Users\HEO\Desktop\Atents\UnityClass\비주얼스튜디오\Network\EchoServer\Try\obj\Debug\Try.pdb

@@ -1,7 +1,0 @@
-F:\01.GitHub\VisualstudioStudy\EchoServer\EchoClient\bin\Debug\EchoClient.exe.config
-F:\01.GitHub\VisualstudioStudy\EchoServer\EchoClient\bin\Debug\EchoClient.exe
-F:\01.GitHub\VisualstudioStudy\EchoServer\EchoClient\bin\Debug\EchoClient.pdb
-F:\01.GitHub\VisualstudioStudy\EchoServer\EchoClient\obj\Debug\EchoClient.csproj.AssemblyReference.cache
-F:\01.GitHub\VisualstudioStudy\EchoServer\EchoClient\obj\Debug\EchoClient.csproj.CoreCompileInputs.cache
-F:\01.GitHub\VisualstudioStudy\EchoServer\EchoClient\obj\Debug\EchoClient.exe
-F:\01.GitHub\VisualstudioStudy\EchoServer\EchoClient\obj\Debug\EchoClient.pdb

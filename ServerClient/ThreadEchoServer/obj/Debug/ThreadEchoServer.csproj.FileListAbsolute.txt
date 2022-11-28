@@ -1,0 +1,6 @@
+C:\Users\HEO\Desktop\Atents\UnityClass\비주얼스튜디오\Network\EchoServer\ThreadEchoServer\bin\Debug\ThreadEchoServer.exe.config
+C:\Users\HEO\Desktop\Atents\UnityClass\비주얼스튜디오\Network\EchoServer\ThreadEchoServer\bin\Debug\ThreadEchoServer.exe
+C:\Users\HEO\Desktop\Atents\UnityClass\비주얼스튜디오\Network\EchoServer\ThreadEchoServer\bin\Debug\ThreadEchoServer.pdb
+C:\Users\HEO\Desktop\Atents\UnityClass\비주얼스튜디오\Network\EchoServer\ThreadEchoServer\obj\Debug\ThreadEchoServer.csproj.CoreCompileInputs.cache
+C:\Users\HEO\Desktop\Atents\UnityClass\비주얼스튜디오\Network\EchoServer\ThreadEchoServer\obj\Debug\ThreadEchoServer.exe
+C:\Users\HEO\Desktop\Atents\UnityClass\비주얼스튜디오\Network\EchoServer\ThreadEchoServer\obj\Debug\ThreadEchoServer.pdb

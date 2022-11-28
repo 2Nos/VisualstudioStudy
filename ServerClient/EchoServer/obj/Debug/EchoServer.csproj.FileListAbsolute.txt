@@ -1,0 +1,7 @@
+C:\Users\HEO\Desktop\Atents\UnityClass\비주얼스튜디오\Network\EchoServer\EchoServer\bin\Debug\EchoServer.exe.config
+C:\Users\HEO\Desktop\Atents\UnityClass\비주얼스튜디오\Network\EchoServer\EchoServer\bin\Debug\EchoServer.exe
+C:\Users\HEO\Desktop\Atents\UnityClass\비주얼스튜디오\Network\EchoServer\EchoServer\bin\Debug\EchoServer.pdb
+C:\Users\HEO\Desktop\Atents\UnityClass\비주얼스튜디오\Network\EchoServer\EchoServer\obj\Debug\EchoServer.csproj.AssemblyReference.cache
+C:\Users\HEO\Desktop\Atents\UnityClass\비주얼스튜디오\Network\EchoServer\EchoServer\obj\Debug\EchoServer.csproj.CoreCompileInputs.cache
+C:\Users\HEO\Desktop\Atents\UnityClass\비주얼스튜디오\Network\EchoServer\EchoServer\obj\Debug\EchoServer.exe
+C:\Users\HEO\Desktop\Atents\UnityClass\비주얼스튜디오\Network\EchoServer\EchoServer\obj\Debug\EchoServer.pdb
