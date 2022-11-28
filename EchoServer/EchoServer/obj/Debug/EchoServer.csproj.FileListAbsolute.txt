@@ -1,0 +1,7 @@
+F:\01.GitHub\VisualstudioStudy\EchoServer\EchoServer\bin\Debug\EchoServer.exe.config
+F:\01.GitHub\VisualstudioStudy\EchoServer\EchoServer\bin\Debug\EchoServer.exe
+F:\01.GitHub\VisualstudioStudy\EchoServer\EchoServer\bin\Debug\EchoServer.pdb
+F:\01.GitHub\VisualstudioStudy\EchoServer\EchoServer\obj\Debug\EchoServer.csproj.AssemblyReference.cache
+F:\01.GitHub\VisualstudioStudy\EchoServer\EchoServer\obj\Debug\EchoServer.csproj.CoreCompileInputs.cache
+F:\01.GitHub\VisualstudioStudy\EchoServer\EchoServer\obj\Debug\EchoServer.exe
+F:\01.GitHub\VisualstudioStudy\EchoServer\EchoServer\obj\Debug\EchoServer.pdb
